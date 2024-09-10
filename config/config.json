@@ -1,0 +1,35 @@
+{
+  "site": {
+    "title": "Fluxrware",
+    "base_url": "/",
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.png",
+    "logo_width": "100",
+    "logo_height": "24",
+    "logo_text": "fluxrware Technologies"
+  },
+
+  "settings": {
+    "pagination": 4,
+    "summary_length": 200,
+    "blog_folder": "blogs"
+  },
+
+  "nav_button": {
+    "enable": true,
+    "label": "Get Started",
+    "link": "/contact"
+  },
+
+  "params": {
+    "contact_form_action": "",
+    "tag_manager_id": "",
+    "footer_content": "Connecting the world.",
+    "copyright": "Designed and Developed By Fluxrware. All rights reserved."
+  },
+
+  "metadata": {
+    "meta_author": "Fluxrware",
+    "meta_image": ""
+  }
+}
