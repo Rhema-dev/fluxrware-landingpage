@@ -10,7 +10,7 @@ plans:
     features:
       - Landing page design and development
       - UI/UX design up to (3) pages
-      - Domain registeration (1) year
+      - Domain registration (1) year
       - Hosting (1) year
     button:
       label: Get started
@@ -25,7 +25,7 @@ plans:
       - Landing page design and development
       - UI/UX design up to (10) pages
       - Custom Logo design
-      - Domain registeration (1) year
+      - Domain registration (1) year
       - Hosting (1) year
       - Content management system integration (CMS)
       - Search engine optimization (SEO)
@@ -42,7 +42,7 @@ plans:
       - E-commerce Integration
       - UI/UX design up to (20) pages
       - Custom Logo design
-      - Domain registeration (1) year
+      - Domain registration (1) year
       - Hosting (1) year
       - Content management system integration (CMS)
       - Search engine optimization (SEO)
